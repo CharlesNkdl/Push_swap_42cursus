@@ -9,5 +9,6 @@ Done actually :
   - Checking function made
   - Homemade algorithm, which can sort efficiently little samples ( < 10)
   - Lot of helper functions about linked list
+  
 Actually working on :
   - More theoric algorithm for larger sample size
